@@ -1,0 +1,93 @@
+/*
+style.css
+Created by Valerij Dimitriev
+on 2021.11.29
+*/
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+div.canvas{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    height: 200px;
+    width: 600px;
+    padding: 8px 8px 8px 8px;
+}
+#canvas{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    height: 200px;
+    width: 600px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    padding: 8px 8px 8px 8px;
+}
+div.buttonStart{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 8px;
+    font-size: 20px;
+}
+div.hidden{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-color: black;
+    box-shadow: black;
+}
+
+div.tracker{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    text-align: center;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+#startbutton{
+    font-size: 18px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+    border: 2px solid #000000;    
+    font-weight: bold;
+    border-radius: 6px;
+}
+#translation{
+    font-size: 14px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+    border: 2px solid #000000;  
+    font-weight: bold;
+    border-radius: 6px;
+}
+div.submit{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+#submitButton{
+    font-size: 18px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+    border: 2px solid #000000;   
+    font-weight: bold;
+    border-radius: 6px;
+}
+div.radioBtn{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 8px;
+    font-size: 20px;
+}
